@@ -1,0 +1,46 @@
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\bin\Debug\GrifindoToysSystem.exe.config
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\bin\Debug\GrifindoToysSystem.exe
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\bin\Debug\GrifindoToysSystem.pdb
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csprojResolveAssemblyReference.cache
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Employee.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Properties.Resources.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.GenerateResource.Cache
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.exe
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.pdb
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Salary.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Settings.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.PayRollReport.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\RdlCompile.cache
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\RdlCompile.compiled
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Login.resources
+D:\Maleesha\ESOFT\HND\Lectures\Programming\C# Projects\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.MainMenu.resources
+E:\GrifindoToysSystem\GrifindoToysSystem\bin\Debug\GrifindoToysSystem.exe.config
+E:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.exe
+E:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.pdb
+F:\GrifindoToysSystem\GrifindoToysSystem\bin\Debug\GrifindoToysSystem.exe.config
+F:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.exe
+F:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.pdb
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.AssemblyReference.cache
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Employee.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Login.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.MainMenu.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.PayRollReport.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Properties.Resources.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Salary.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Settings.resources
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.GenerateResource.cache
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.CoreCompileInputs.cache
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.exe
+G:\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.pdb
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.AssemblyReference.cache
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Employee.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Login.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.MainMenu.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.PayRollReport.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Properties.Resources.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Salary.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.Settings.resources
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.GenerateResource.cache
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.csproj.CoreCompileInputs.cache
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.exe
+G:\DATA\GrifindoToysSystem\GrifindoToysSystem\obj\Debug\GrifindoToysSystem.pdb

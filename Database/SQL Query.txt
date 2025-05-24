@@ -1,0 +1,84 @@
+
+Change the Connection String if the VS is running in an other devices
+
+Create Database [Griffindo_Toys 2.0]
+Use [Griffindo_Toys 2.0]
+
+CREATE TABLE Employee_Information (
+    Employee_ID INT NOT NULL PRIMARY KEY,
+    Employee_Name VARCHAR(50) NULL,
+    Employee_Age INT NULL,
+    Gender CHAR(1) NULL,
+    Employee_Address VARCHAR(100) NULL,
+    Salary_Per_Month MONEY NULL,
+    OverTime_Rate MONEY NULL,
+    Allowances MONEY NULL,
+    Tax INT NULL
+)
+
+CREATE TABLE Salary(
+	Salary_ID int NOT NULL,
+	Employee_ID INT FOREIGN KEY REFERENCES.Employee_Information not null,
+	Payment_ID int NULL,
+	Payment_Date date NULL,
+	Overall_Attendance int NULL,
+	Basepay money NULL,
+	No_Pay money NULL,
+	Gross_Pay money NULL,
+	Tax int NULL,
+)
+
+CREATE TABLE Setting_Table(
+	Setting_ID int NOT NULL Primary Key,
+	StartDate date NULL,
+	EndDate date NULL,
+	Days_Got_Leaved int NULL,
+	Worked_Days int NULL,
+	Tax int NULL,
+)
+
+INSERT INTO Employee_Information (Employee_Name, Employee_Age, Gender, Employee_Address, Salary_Per_Month, OverTime_Rate, Allowances, Tax)
+VALUES 
+('John Doe', 30, 'M', '123 Main St, Anytown, USA', 5000.00, 50.00, 200.00, 10),
+('Jane Smith', 28, 'F', '456 Elm St, Anytown, USA', 4800.00, 45.00, 180.00, 8),
+('Michael Johnson', 35, 'M', '789 Oak St, Anytown, USA', 5200.00, 55.00, 220.00, 12),
+('Emily Davis', 25, 'F', '246 Pine St, Anytown, USA', 4600.00, 40.00, 160.00, 7),
+('David Clark', 32, 'M', '135 Cedar St, Anytown, USA', 5100.00, 52.00, 210.00, 11),
+('Sarah Wilson', 29, 'F', '579 Maple St, Anytown, USA', 4900.00, 48.00, 190.00, 9),
+('Kevin White', 34, 'M', '678 Birch St, Anytown, USA', 5300.00, 56.00, 230.00, 13),
+('Jessica Hall', 27, 'F', '357 Walnut St, Anytown, USA', 4700.00, 42.00, 170.00, 8),
+('Michael Brown', 31, 'M', '802 Oakwood St, Anytown, USA', 5150.00, 53.00, 215.00, 12),
+('Amanda Young', 26, 'F', '951 Cherry St, Anytown, USA', 4850.00, 46.00, 185.00, 9),
+('Daniel King', 33, 'M', '104 Pinehurst St, Anytown, USA', 5250.00, 58.00, 240.00, 14),
+('Linda Green', 30, 'F', '268 Elmwood St, Anytown, USA', 4950.00, 50.00, 200.00, 10),
+('Matthew Harris', 28, 'M', '427 Cedarwood St, Anytown, USA', 5050.00, 54.00, 220.00, 11),
+('Rachel Lee', 29, 'F', '613 Maplewood St, Anytown, USA', 4800.00, 45.00, 180.00, 8),
+('Nicole Martinez', 32, 'F', '798 Birchwood St, Anytown, USA', 5150.00, 53.00, 215.00, 12),
+('Andrew Carter', 35, 'M', '854 Oakhill St, Anytown, USA', 5300.00, 56.00, 230.00, 13),
+('Stephanie Scott', 31, 'F', '942 Cherrywood St, Anytown, USA', 5000.00, 52.00, 210.00, 11),
+('Patrick Turner', 27, 'M', '753 Pinewood St, Anytown, USA', 4900.00, 48.00, 190.00, 9),
+('Jennifer Phillips', 34, 'F', '697 Elmhill St, Anytown, USA', 5250.00, 55.00, 225.00, 13),
+('Ryan Evans', 33, 'M', '123 Maplehill St, Anytown, USA', 5100.00, 54.00, 220.00, 12);
+
+INSERT INTO Salary (Salary_ID, Employee_ID, Payment_ID, Payment_Date, Overall_Attendance, Basepay, No_Pay, Gross_Pay, Tax)
+VALUES
+(1, 1, 101, '2024-06-01', 20, 4000.00, 0.00, 4000.00, 500),
+(2, 2, 102, '2024-06-01', 19, 3800.00, 0.00, 3800.00, 450),
+(3, 3, 103, '2024-06-01', 21, 4200.00, 0.00, 4200.00, 550),
+(4, 4, 104, '2024-06-01', 18, 3600.00, 0.00, 3600.00, 400),
+(5, 5, 105, '2024-06-01', 22, 4400.00, 0.00, 4400.00, 600),
+(6, 6, 106, '2024-06-01', 20, 4000.00, 0.00, 4000.00, 500),
+(7, 7, 107, '2024-06-01', 21, 4200.00, 0.00, 4200.00, 550),
+(8, 8, 108, '2024-06-01', 19, 3800.00, 0.00, 3800.00, 450),
+(9, 9, 109, '2024-06-01', 23, 4600.00, 0.00, 4600.00, 650),
+(10, 10, 110, '2024-06-01', 20, 4000.00, 0.00, 4000.00, 500),
+(11, 11, 111, '2024-06-01', 18, 3600.00, 0.00, 3600.00, 400),
+(12, 12, 112, '2024-06-01', 22, 4400.00, 0.00, 4400.00, 600),
+(13, 13, 113, '2024-06-01', 19, 3800.00, 0.00, 3800.00, 450),
+(14, 14, 114, '2024-06-01', 21, 4200.00, 0.00, 4200.00, 550),
+(15, 15, 115, '2024-06-01', 20, 4000.00, 0.00, 4000.00, 500),
+(16, 16, 116, '2024-06-01', 22, 4400.00, 0.00, 4400.00, 600),
+(17, 17, 117, '2024-06-01', 18, 3600.00, 0.00, 3600.00, 400),
+(18, 18, 118, '2024-06-01', 21, 4200.00, 0.00, 4200.00, 550),
+(19, 19, 119, '2024-06-01', 20, 4000.00, 0.00, 4000.00, 500),
+(20, 20, 120, '2024-06-01', 23, 4600.00, 0.00, 4600.00, 650);

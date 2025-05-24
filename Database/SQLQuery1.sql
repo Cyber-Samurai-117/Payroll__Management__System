@@ -1,0 +1,6 @@
+SELECT TOP 1000 [Student_ID]
+      ,[Student_Name]
+      ,[Student_DOB]
+      ,[Marks]
+      ,[Gender]
+  FROM [Student].[dbo].[Student]
